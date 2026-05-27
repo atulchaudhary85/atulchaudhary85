@@ -1,38 +1,44 @@
 <h1 align="center">Hi 👋, I'm Atul Chaudhary</h1>
-<h3 align="center">📊 Aspiring Data Analyst | SQL | Python | Excel | Power BI</h3>
+
+<h3 align="center">
+📊 SQL | Python | Excel | Power BI | Data Analytics | Business Intelligence
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Aspiring+Data+Analyst+📊;Turning+Data+Into+Insights;Building+Real+World+Projects+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Turning+Data+Into+Insights+📊;Building+Real+World+Analytics+Projects+🚀;Always+Learning+Something+New" />
 </p>
 
 ---
 
 ## 🚀 About Me
 - 🎓 BCA Graduate
-- 📊 Aspiring **Data Analyst**
-- 💡 Skilled in **Python, MySQL, Excel & Data Analysis**
-- 🌱 Currently learning **Power BI & Advanced SQL**
-- 🎯 Goal: Build a strong career in **Data Analytics**
+- 💡 Passionate about **Data Analytics & Business Intelligence**
+- 🌱 Currently improving **Advanced SQL, Power BI & Python for Analytics**
+- 📊 Interested in solving real-world business problems using data
+- 🎯 Open to opportunities in **Data Analytics, MIS, Reporting & BI roles**
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Skills & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,java,git,github,vscode" />
 </p>
 
-### 📌 Core Skills
+### 📌 Technical Skills
 - SQL (MySQL)
 - Python
 - Advanced Excel
-- Data Cleaning
 - Data Analysis
+- Data Cleaning
 - Data Visualization
-- Power BI (Learning)
+- Power BI
+- MS Excel Reporting
+- Business Intelligence
+- Basic Java
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Insights
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=atulchaudhary85&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=atulchaudhary85&theme=tokyonight&hide_border=true" height="150"/>
@@ -41,33 +47,22 @@
 ---
 
 ## 🚀 Featured Projects
-
-### 🛒 E-Commerce Sales Analytics Dashboard
+### 🛒 Enterprise E-Commerce Sales Analytics
 - SQL + Python + Power BI
-- Sales trend analysis
-- Customer insights
-- Business KPI dashboard
+- Sales & Customer Analysis
+- Business KPI Dashboard
 
 ### 👨‍💼 HR Analytics Dashboard
-- Employee attrition analysis
-- Department-wise insights
-- Interactive reports
-
----
-
-## 🌐 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/atul-chaudhary-0018342ab">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-</p>
+- Employee Insights
+- Attrition Analysis
+- Interactive Reporting
 
 ---
 
 ## ⚡ Current Focus
 ```diff
-+ Learning Advanced SQL 📊
-+ Building Data Analyst Projects 🚀
-+ Improving Python for Analytics 🐍
-+ Preparing for Data Analyst Roles 💼
++ Building Resume-Level Projects 🚀
++ Improving SQL & Power BI 📊
++ Strengthening Python for Analytics 🐍
++ Preparing for Analytics & BI Roles 💼
 ```
