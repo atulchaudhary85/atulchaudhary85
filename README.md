@@ -1,174 +1,48 @@
-\# Hi there, I'm Atul Chaudhary 👋
-
-
-
 <div align="center">
 
+# Hi 👋, I'm Atul Chaudhary
 
+### **BCA Graduate (AI & ML)**
 
-\### 🚀 Aspiring Data Analyst | Power BI | SQL | Python | Excel
+**SQL • Python • Power BI • Excel • AI Automation**
 
-
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins\&size=24\&duration=3000\&pause=1000\&color=00BFFF\&center=true\&vCenter=true\&width=700\&lines=Aspiring+Data+Analyst;Power+BI+Dashboard+Developer;Python+%7C+SQL+%7C+Excel;Turning+Data+Into+Insights" />
-
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=SQL+%7C+Python+%7C+Power+BI;Learning+AI+Automation;Always+Building+New+Projects" />
 
 </div>
 
+---
 
+### 👨‍💻 About Me
 
-\---
+* 🎓 BCA Graduate specializing in AI & ML
+* 💻 Passionate about building real-world projects
+* 📚 Currently learning AI Automation
+* 🚀 Continuously improving my technical skills
 
+### 🛠️ Skills
 
+<p>
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,html,css,js,nextjs,fastapi,docker" />
+</p>
 
-\## 👨‍💻 About Me
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
 
+### 🚀 Projects
 
+* 🤖 CareerOS AI
+* 📊 E-commerce Sales Dashboard
+* 🎬 Netflix User Behavior Analysis
 
-\* 🎓 BCA Graduate (AI \& ML)
+<div align="center">
 
-\* 📊 Passionate about Data Analytics and Business Intelligence
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=atulchaudhary85&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulchaudhary85&layout=compact&theme=tokyonight&hide_border=true"/>
 
-\* 💡 Skilled in Power BI, SQL, Python, Excel, MySQL
+</div>
 
-\* 🌱 Currently learning Advanced SQL, Data Visualization \& Analytics
+<div align="center">
 
-\* 🎯 Looking for Data Analyst / BI Analyst opportunities
+<a href="https://www.linkedin.com/in/atul-chaudhary-8927233a9"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://github.com/atulchaudhary85"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-
-
-\---
-
-
-
-\## 🛠 Tech Stack
-
-
-
-\### Languages
-
-
-
-\* Python
-
-\* SQL
-
-\* JavaScript
-
-\* HTML
-
-\* CSS
-
-
-
-\### Analytics
-
-
-
-\* Power BI
-
-\* Microsoft Excel
-
-\* MySQL
-
-\* Pandas
-
-\* NumPy
-
-\* Matplotlib
-
-
-
-\### Tools
-
-
-
-\* Git
-
-\* GitHub
-
-\* VS Code
-
-
-
-\---
-
-
-
-\## 🚀 Featured Projects
-
-
-
-\### 📊 Ecommerce Sales Dashboard
-
-
-
-Interactive Power BI dashboard with KPIs, sales trends, customer insights and profit analysis.
-
-
-
-\### 🎬 Netflix User Analysis
-
-
-
-Complete exploratory data analysis using Python, Pandas and visualization.
-
-
-
-\### 🤖 Diabetes Prediction System
-
-
-
-Machine Learning project for diabetes prediction using classification algorithms.
-
-
-
-\### 💻 CareerOS AI
-
-
-
-ATS Resume Analyzer built using Next.js, FastAPI and PostgreSQL.
-
-
-
-\---
-
-
-
-\## 📈 GitHub Stats
-
-
-
-!\[Stats](https://github-readme-stats.vercel.app/api?username=atulchaudhary85\\\&show\_icons=true\\\&theme=tokyonight)
-
-
-
-!\[Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atulchaudhary85\\\&layout=compact\\\&theme=tokyonight)
-
-
-
-\---
-
-
-
-\## 🌐 Connect With Me
-
-
-
-\* 💼 LinkedIn: https://www.linkedin.com/in/atul-chaudhary-8927233a9/
-
-\* 📧 Email: \[atulchaudhary99747@gmail.com](mailto:atulchaudhary99747@gmail.com)
-
-\* 🐙 GitHub: https://github.com/atulchaudhary85
-
-
-
-\---
-
-
-
-⭐ \*"Transforming raw data into meaningful business insights."\*
-
-
-
+</div>
