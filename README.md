@@ -1,58 +1,87 @@
 <div align="center">
 
-# Hi 👋, I'm Atul Chaudhary
+# Atul Chaudhary
 
-### **BCA Graduate (AI & ML)**
+### Data Analyst • AI Automation Engineer • Python Developer
 
-**SQL • Python • Power BI • Excel • AI Automation**
+Building intelligent data products, automation systems, and business intelligence solutions.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=SQL+%7C+Python+%7C+Power+BI;Learning+AI+Automation;Always+Building+New+Projects" />
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Python+%7C+SQL+%7C+Power+BI;AI+Automation+Engineer;Business+Intelligence;Building+Real+World+Projects"/>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=atulchaudhary85&style=flat-square"/>
+</p>
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+## About
 
-* 🎓 BCA Graduate specializing in AI & ML
-* 💻 Passionate about building real-world projects
-* 📚 Currently learning AI Automation
-* 🚀 Continuously improving my technical skills
+I build practical solutions using **Python, SQL, Power BI, AI Automation, and modern web technologies**. My focus is solving business problems through analytics, dashboards, workflow automation, and scalable applications.
 
-### 🛠️ Skills
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,html,css,js,nextjs,fastapi,docker" />
+## Core Skills
+
+- Python
+- SQL
+- Power BI
+- Excel
+- Data Analytics
+- AI Automation
+- Machine Learning
+- JavaScript
+- React
+- Node.js
+- MongoDB
+- Git & GitHub
+
+---
+
+## Featured Projects
+
+### AI Resume Analyzer
+AI-powered resume analysis with intelligent skill extraction.
+
+### Enterprise Sales Analytics Dashboard
+Interactive Power BI dashboards with KPI tracking and business insights.
+
+### AI Workflow Automation
+Automation platform using AI agents and modern web technologies.
+
+### College Notes Platform
+Full-stack marketplace for academic resources.
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=atulchaudhary85&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulchaudhary85&layout=compact&theme=transparent&hide_border=true"/>
+
 </p>
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=atulchaudhary85&theme=transparent&hide_border=true"/>
+</p>
 
-### 🚀 Projects
+---
 
-* 🤖 CareerOS AI
-* 📊 E-commerce Sales Dashboard
-* 🎬 Netflix User Behavior Analysis
+## Connect
 
-<div align="center">
+- LinkedIn: https://www.linkedin.com/in/atul-chaudhary-8927233a9
+- GitHub: https://github.com/atulchaudhary85
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=atulchaudhary85&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulchaudhary85&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+---
 
 <div align="center">
-<div align="center">
 
-<a href="https://www.linkedin.com/in/atul-chaudhary-8927233a9">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/atulchaudhary85">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-<a href="https://github.com/atulchaudhary85"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+**"Turning Data into Decisions."**
 
 </div>
